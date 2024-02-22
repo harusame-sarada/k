@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-math-blog
+    name: for-regee315.harusame
     env: python
     region: Oregon
     plan: free
